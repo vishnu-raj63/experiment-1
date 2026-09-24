@@ -6,15 +6,15 @@ print("Python version:", sys.version)
 print("NumPy version:", np.__version__)
 print("Pandas version:", pd.__version__)
 
-# List
+
 fruits = ["apple", "banana", "mango"]
 print("\nList:", fruits)
 
-# Tuple
+
 marks = (85, 90, 78)
 print("Tuple:", marks)
 
-# Set
+
 unique_numbers = {1, 2, 2, 3, 4}
 print("Set (duplicates removed):", unique_numbers)
 
@@ -66,15 +66,15 @@ print("Python version:", sys.version)
 print("NumPy version:", np.__version__)
 print("Pandas version:", pd.__version__)
 
-# List
+
 fruits = ["apple", "banana", "mango"]
 print("\nList:", fruits)
 
-# Tuple
+
 marks = (85, 90, 78)
 print("Tuple:", marks)
 
-# Set
+
 unique_numbers = {1, 2, 2, 3, 4}
 print("Set (duplicates removed):", unique_numbers)
 
